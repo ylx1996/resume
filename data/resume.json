@@ -12,33 +12,6 @@
         "phone": "15088888888",
         "email": "lxyang@stu.xidian.edu.cn"
     },
-    "social":[
-        {
-            "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        }
-    ],
     "Awards": [
         {
             "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
